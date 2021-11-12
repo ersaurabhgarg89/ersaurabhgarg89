@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+💕 I love to code and believe open source is the best platform to contribute and share your knowledge 😍    
+
+🔭 Currently a professional developer and a learner 🤓
+
+👯 Always open for interesting discussions and looking to collaborate on projects concerning web and app development 🙂
+
+👯 I’m looking to collaborate on new ideas. 
+
 <!--
 **ersaurabhgarg89/ersaurabhgarg89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
